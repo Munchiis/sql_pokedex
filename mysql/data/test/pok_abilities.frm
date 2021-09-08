@@ -1,0 +1,15 @@
+TYPE=VIEW
+query=select 1 AS `pok_id`,1 AS `pok_name`,1 AS `abil_name`,1 AS `is_hidden`,1 AS `pok_base_experience`
+md5=cd72e80c63f4d8b4659f9386f4f7d72f
+updatable=0
+algorithm=0
+definer_user=root
+definer_host=localhost
+suid=1
+with_check_option=0
+timestamp=2019-04-15 19:34:00
+create-version=1
+source=select 1 AS `pok_id`,1 AS `pok_name`,1 AS `abil_name`,1 AS `is_hidden`,1 AS `pok_base_experience`
+client_cs_name=utf8
+connection_cl_name=utf8_general_ci
+view_body_utf8=select 1 AS `pok_id`,1 AS `pok_name`,1 AS `abil_name`,1 AS `is_hidden`,1 AS `pok_base_experience`

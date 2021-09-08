@@ -1,0 +1,15 @@
+TYPE=VIEW
+query=select 1 AS `pok_id`,1 AS `pok_name`,1 AS `b_atk`,1 AS `b_def`,1 AS `b_hp`,1 AS `b_speed`,1 AS `b_sp_atk`,1 AS `b_sp_def`
+md5=4c95c4fb101fbaa6d75feb12361bfd4a
+updatable=0
+algorithm=0
+definer_user=root
+definer_host=localhost
+suid=1
+with_check_option=0
+timestamp=2019-04-15 19:34:00
+create-version=1
+source=select 1 AS `pok_id`,1 AS `pok_name`,1 AS `b_atk`,1 AS `b_def`,1 AS `b_hp`,1 AS `b_speed`,1 AS `b_sp_atk`,1 AS `b_sp_def`
+client_cs_name=utf8
+connection_cl_name=utf8_general_ci
+view_body_utf8=select 1 AS `pok_id`,1 AS `pok_name`,1 AS `b_atk`,1 AS `b_def`,1 AS `b_hp`,1 AS `b_speed`,1 AS `b_sp_atk`,1 AS `b_sp_def`
